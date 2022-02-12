@@ -63,3 +63,5 @@ while(funds > 1 && funds < 100) {
    case 13: totalBet = 0;     break;
    case 21: totalBet = 21;    break;
  }
+
+ // test
